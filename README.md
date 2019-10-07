@@ -1,7 +1,7 @@
 # Reinforcement Learning Research Game
 
 
-### Link to Paper 
+### Link to the Paper 
 
 If you find this code useful in your research, please consider citing our paper [_"Towards Symbolic Reinforcement Learning with Common Sense"_](https://arxiv.org/abs/1804.08597):
 
