@@ -1,5 +1,20 @@
 # Reinforcement Learning Research Game
 
+
+### Link to the Paper
+
+If you find this code useful in your research, please consider citing our paper [_"Towards Symbolic Reinforcement Learning with Common Sense"_](https://arxiv.org/abs/1804.08597):
+
+    @article{garcez2018towards,
+      title={Towards symbolic reinforcement learning with common sense},
+      author={Garcez, Artur d'Avila and Dutra, Aimore Resende Riquetti and Alonso, Eduardo},
+      journal={arXiv preprint arXiv:1804.08597},
+      year={2018}
+    }
+
+
+
+
 ### Environments
 ![Env 1](https://github.com/AimoreRRD/AIMORE_GAME/blob/master/Results/Environment%20IMAGES/env1.PNG)
 ![Env 2](https://github.com/AimoreRRD/AIMORE_GAME/blob/master/Results/Environment%20IMAGES/env2.PNG)
@@ -20,20 +35,3 @@
 ![Env 17](https://github.com/AimoreRRD/AIMORE_GAME/blob/master/Results/Environment%20IMAGES/env17.PNG)
 ![Env 18](https://github.com/AimoreRRD/AIMORE_GAME/blob/master/Results/Environment%20IMAGES/env18.PNG)
 ![Env 19](https://github.com/AimoreRRD/AIMORE_GAME/blob/master/Results/Environment%20IMAGES/env19.PNG)
-![Env 20](https://github.com/AimoreRRD/AIMORE_GAME/blob/master/Results/Environment%20IMAGES/env20.PNG)
-
-
-
-
-
-### Link to the Paper
-
-If you find this code useful in your research, please consider citing our paper [_"Towards Symbolic Reinforcement Learning with Common Sense"_](https://arxiv.org/abs/1804.08597):
-
-    @article{garcez2018towards,
-      title={Towards symbolic reinforcement learning with common sense},
-      author={Garcez, Artur d'Avila and Dutra, Aimore Resende Riquetti and Alonso, Eduardo},
-      journal={arXiv preprint arXiv:1804.08597},
-      year={2018}
-    }
-
