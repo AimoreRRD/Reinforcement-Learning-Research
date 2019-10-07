@@ -12,10 +12,14 @@ If you find this code useful in your research, please consider citing our paper 
       year={2018}
     }
 
+### Installation
+- ```pip install requirements.txt```
 
-
+### Run
+- run
 
 ### Environments
+
 ![Env 1](https://github.com/AimoreRRD/AIMORE_GAME/blob/master/Results/Environment%20IMAGES/env1.PNG)
 ![Env 2](https://github.com/AimoreRRD/AIMORE_GAME/blob/master/Results/Environment%20IMAGES/env2.PNG)
 ![Env 3](https://github.com/AimoreRRD/AIMORE_GAME/blob/master/Results/Environment%20IMAGES/env3.PNG)
